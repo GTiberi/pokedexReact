@@ -1,0 +1,17 @@
+.App {
+  padding-top: 4rem;
+  min-height: 100vh;
+}
+.navbar {
+  background-color: #ed3f34 !important;
+}
+@font-face {
+  font-family: "POKEMON FONT";
+  font-weight: normal;
+  src: url("Pokemon Solid.ttf");
+}
+@font-face {
+  font-family: "Pacifico";
+  font-weight: normal;
+  src: url("Pacifico-Regular.ttf");
+}
